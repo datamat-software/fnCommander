@@ -1,0 +1,6 @@
+/.vscode export-ignore
+/.git export-ignore
+/.gitignore export-ignore
+/tests export-ignore
+/docs export-ignore
+/_datamat-dev.code-workspace export-ignore
